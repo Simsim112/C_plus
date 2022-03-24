@@ -1,0 +1,4 @@
+﻿  StableConstArraySolu.cpp
+D:\part11\StableConstArraySolu.cpp(46,18): error C2678: 이항 '[': 왼쪽 피연산자로 'const BoundCheckIntArray' 형식을 사용하는 연산자가 없거나 허용되는 변환이 없습니다.
+D:\part11\StableConstArraySolu.cpp(18,7): message : 'int &BoundCheckIntArray::operator [](int)'일 수 있습니다.
+D:\part11\StableConstArraySolu.cpp(46,18): message : 인수 목록 '(const BoundCheckIntArray, int)'을(를) 일치시키는 동안
